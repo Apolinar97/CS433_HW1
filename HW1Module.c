@@ -1,6 +1,6 @@
 /***************************************************
-*Written by: Apolinar Camacho
-*Instructor: 
+*Written by: Apolinar Camacho and Alan Mendez
+*Instructor:Leticia Rabor 
 Init Date: 1/24/2019 
 Due Date: 2/12/2019
 File Name: HW1Module.c
