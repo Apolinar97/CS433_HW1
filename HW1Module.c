@@ -1,12 +1,15 @@
-/**************************************
+/***************************************************
 *Written by: Apolinar Camacho
 *Instructor: 
 Init Date: 1/24/2019 
-Complete Date:xx/xx/2019
+Due Date: 2/12/2019
 File Name: HW1Module.c
-Purpose:
+Purpose: To learn how to create a kernal module
+  and how to load it on the Linux O.S. In addition,
+  the other purpose is to learn how to add an 
+  entry into the /proc file system.
 
-***************************************/
+***************************************************/
 #include <linux/init.h>
 #include <linux/module.h>
 #include <linux/kernel.h>

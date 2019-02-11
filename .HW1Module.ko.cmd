@@ -1,1 +1,1 @@
-cmd_/home/osc/final-src-osc10e/ch2/A1/HW1Module.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/osc/final-src-osc10e/ch2/A1/HW1Module.ko /home/osc/final-src-osc10e/ch2/A1/HW1Module.o /home/osc/final-src-osc10e/ch2/A1/HW1Module.mod.o
+cmd_/home/osc/final-src-osc10e/A1Final/HW1Module.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/osc/final-src-osc10e/A1Final/HW1Module.ko /home/osc/final-src-osc10e/A1Final/HW1Module.o /home/osc/final-src-osc10e/A1Final/HW1Module.mod.o
