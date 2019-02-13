@@ -91,4 +91,4 @@ module_exit(HW1Module_exit);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("A module for Assignment 1 for CS433");
-MODULE_AUTHOR("Apolinar Camacho");
+MODULE_AUTHOR("Apolinar Camacho, Alan Mendez");
